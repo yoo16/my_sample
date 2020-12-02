@@ -5,3 +5,6 @@
 ## profile
 ### name
 - Yohei Yoshikawa
+
+### email
+- test@test.com
